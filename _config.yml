@@ -1,0 +1,9 @@
+# Site settings
+title: chari.co
+tag_text: chari.co
+description: we help you give better with simple reminders
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
