@@ -12,4 +12,4 @@ we let you set a goal for charitable giving, and then send you friendly reminder
 
 awesome, right? we think so too
 
-download our app for [iOS]() and [android]()
+download our app for [iOS](/charico.ipa) and [android](/android-debug.apk)
